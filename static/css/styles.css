@@ -1,0 +1,35 @@
+
+/* Estilo para la navegación */
+nav a {
+    background-color: #000000;
+    color: rgb(255, 253, 253);
+    font-size: 3rem;
+    /* Agrega más propiedades aquí según tus necesidades */
+}
+
+body {
+    font-family: var(--font-caudex), serif;
+    background-color: silver;
+  }
+  
+h2, h3, h4, h5, h6 {
+    font-family: var(--font-prata), serif;
+    color: grey;
+  }
+
+header {
+  background-color: #000000;
+}
+p   {
+    color: black;
+    font-size: 2rem;
+}
+h1 {
+  font-family: var(--font-prata), serif;
+    color: black;
+}
+
+button {
+  background: black;
+  color: white;
+}
